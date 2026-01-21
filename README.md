@@ -31,17 +31,17 @@ Depois decidir se quer usar o **rolldown-vite** é necessário escolher se desej
 *Espere que todas as dependecias sejam instaladas.*
 
 <img width="177" height="17" alt="image" src="https://github.com/user-attachments/assets/decc5323-d7af-42a9-85a6-0be04c64351d" />  
-
+<br />
 <img width="123" height="47" alt="image" src="https://github.com/user-attachments/assets/bcf5635b-666f-43aa-a11f-c369f52b868d" />  
-
+<br />
 <img width="199" height="206" alt="image" src="https://github.com/user-attachments/assets/c3b279f8-8979-4079-9039-4e820280cd85" />  
-
+<br />
 <img width="267" height="201" alt="image" src="https://github.com/user-attachments/assets/b950edc9-38cf-448e-bde1-145eaca308a1" />  
-
+<br />
 <img width="306" height="72" alt="image" src="https://github.com/user-attachments/assets/a7d95f93-44e0-4293-a357-0d5332b9b381" />
-
+<br />
 <img width="286" height="50" alt="image" src="https://github.com/user-attachments/assets/7368ce24-3985-4b21-b73e-03f00a4e4d1f" />  
-
+<br />
 ## Pastas do projeto.
 
 
