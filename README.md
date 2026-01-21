@@ -64,10 +64,10 @@ Neste momento você vai ver a seguinte estrutura: *Abaixo um conteúdo criado po
  * Arquivos estáticos que não passam pelo processo de build. Ícones, imagens fixas, favicons. Tudo que precisa existir exatamente como foi colocado. O Vite copia essa pasta direto para a versão final do site.
 
 * src
-  * O coração pulsante. Aqui mora o código React. É onde você cria componentes, páginas, estilos, hooks, serviços, rotas, estados e tudo que dá personalidade à aplicação.
+ * O coração pulsante. Aqui mora o código React. É onde você cria componentes, páginas, estilos, hooks, serviços, rotas, estados e tudo que dá personalidade à aplicação.
 
 * main.jsx ou main.tsx
-  * O ponto de ignição. Este arquivo pega o React e diz: “renderize o App dentro desta div do HTML”. É a tomada que liga o cérebro ao corpo.
+ * O ponto de ignição. Este arquivo pega o React e diz: “renderize o App dentro desta div do HTML”. É a tomada que liga o cérebro ao corpo.
 
 * App.jsx
   * O componente raiz. Pense nele como a sala de controle. Rotas, layout principal, providers de contexto, tudo costuma com
