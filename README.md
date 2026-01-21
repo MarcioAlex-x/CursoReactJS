@@ -81,5 +81,5 @@ Neste momento você vai ver a seguinte estrutura: *Abaixo um conteúdo criado po
 * package.json
   * O DNA do projeto. Dependências, scripts, nome, versão. Sem ele, nada nasce.
 
-*vite.config.js
-  *Configurações do Vite. Define plugins, caminhos, ajustes de build.
+* vite.config.js
+  * Configurações do Vite. Define plugins, caminhos, ajustes de build.
